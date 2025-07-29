@@ -32,8 +32,8 @@ The design was so clean and responsive that I got excited and wanted to try it i
 ## 🧾 Code Structure
 
 ```html
-    <div class="visme_d" data-title="Opt In Form Template" data-url="0vm4mnxr-untitled-project?fullPage=true"
-        data-domain="forms" data-full-page="true" data-min-height="100vh" data-form-id="138768"></div>
+<div class="visme_d" data-title="Opt In Form Template" data-url="0vm4mnxr-untitled-project?fullPage=true"
+data-domain="forms" data-full-page="true" data-min-height="100vh" data-form-id="138768"></div>
 
 <!-- Visme Script -->
 <script src="https://static-bundles.visme.co/forms/vismeforms-embed.js"></script>
